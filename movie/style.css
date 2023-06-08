@@ -128,7 +128,7 @@ footer{
     font-family: system-ui;
     color: rgb(182, 177, 177);
     text-align: center;
-    font-size: 2em;
+    font-size: 40px;
     text-shadow: 1px 1px #887b99;
     
 }
@@ -142,7 +142,7 @@ footer{
 #rating{
     color: chartreuse;
     font-family: system-ui;
-    font-size: 1.5em;
+    font-size: 30px;
     margin-left: 40px ;
 }
 
