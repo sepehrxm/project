@@ -17,7 +17,7 @@ nav{
     box-sizing: border-box;
     background-color: rgb(175, 20, 59);
     opacity: 0.9;
-    padding: 50px;
+    padding: 10px;
     width: 100%;
     text-align: center;
     display: flex;
@@ -71,7 +71,7 @@ footer{
     width: 100%;
     background-color: rgba(12, 12, 12);
     margin: 0;
-    height: 60px;
+    padding: 10px;
     display: flex;
     justify-content: space-between;
 }
