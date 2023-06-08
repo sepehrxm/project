@@ -1,10 +1,8 @@
 *{
     box-sizing: border-box;
 }
-body, html{
+body{
     margin: 0;
-    padding: 0;
-    box-sizing: border-box;
     background-image: url(image1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -159,4 +157,3 @@ footer{
 #me, #them{
     color: rgb(186, 190, 190);
 }
-
