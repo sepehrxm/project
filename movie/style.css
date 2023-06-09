@@ -208,11 +208,15 @@ main{
         height: 45px;
     }
 
+    #poster{
+        padding: 0;
+    }
     #poster img{
         text-align: center;
         width: 220px;
-        height: 230px;
+        height: 150px;
     }
+
 
     #rate p{
         font-size: 25px;
