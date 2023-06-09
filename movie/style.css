@@ -40,6 +40,8 @@ body{
 #row2{
     height: 70%;
     display: flex;
+    text-overflow: ellipsis;
+    overflow: scroll;
 }
 
 #posterRate{
