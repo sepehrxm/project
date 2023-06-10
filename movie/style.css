@@ -186,10 +186,10 @@ main{
     align-items: center;
     text-align: center;
 }
-
-#me{
-    color: rgb(186, 190, 190);
+#them{
+    padding-top: 10px;
 }
+
 /* -------------------------------------------------------------- */
 
 @media (max-width: 766px) {
