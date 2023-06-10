@@ -153,8 +153,10 @@ main{
     display: inline;
     font-family: font1;
     font-size: 15px
-    color: white;
     text-align: center;
+}
+#disclaimer p{
+    color: rgb(255, 0, 102);
 }
 
 /* -------------------------------------------------------------- */
