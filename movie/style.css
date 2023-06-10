@@ -235,13 +235,14 @@ main{
         font-size: 15px;
         font-family: font1;
         text-align: center;
-        width: 40%;
+        width: 50%;
         
     }
 
     #overview p{
         font-size: 15px;
         color: azure;
+        padding-top: 10px;
     }
 
     #tmdb{
