@@ -153,9 +153,8 @@ main{
     display: inline;
     font-family: font1;
     font-size: 15px
-    color: black;
+    color: white;
     text-align: center;
-    text-decoration: underline dotted red;
 }
 
 /* -------------------------------------------------------------- */
