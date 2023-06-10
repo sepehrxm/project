@@ -200,6 +200,7 @@ main{
 
     #disclaimer, #me, #them{
         font-size: 15px;
+        color: white;
     }
     
     #icon{
