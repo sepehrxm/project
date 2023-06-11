@@ -78,7 +78,8 @@ body{
     width: 100%;
 }
 #title h1{
-    color: darkslategray;
+    color: rgb(7, 17, 145);
+    font-weight: bold;
     font-family: font3;
     padding-top: 20px;
     font-size: 50px;
@@ -100,9 +101,10 @@ body{
 }
 
 .data{
-    color: darkseagreen;
+    color: rgb(216, 64, 18);
     font-size: 17px;
     font-family: font1;
+    font-weight: bold;
     text-align: center;
     width: 50%;
 }
